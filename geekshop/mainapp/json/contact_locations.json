@@ -1,0 +1,20 @@
+[
+	{
+		"phone": "+7-888-888-8888",
+		"email": "pochta@pochta.ru",
+		"city":	"Москва",
+		"address":	"Везде"
+	},
+	{
+		"phone": "+7-888-888-8888",
+		"email": "pochta@pochta.ru",
+		"city":	"Магадан",
+		"address":	"Везде"
+	},
+	{
+		"phone": "+7-888-888-8888",
+		"email": "pochta@pochta.ru",
+		"city":	"Екатеренбург",
+		"address":	"Везде"
+	}
+]

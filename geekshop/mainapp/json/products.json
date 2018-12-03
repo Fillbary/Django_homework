@@ -1,0 +1,47 @@
+[
+	{
+		"category": "модерн",
+		"name":"дом",
+		"image":"products_images/product-6.jpg",
+		"short_desc":"инновационный дизайн",
+		"description":"нестандартное решение для современного интерьера",
+		"price":"5000",
+		"quantity":"18"
+	},
+	{
+		"category": "модерн",
+		"name":"дом",
+		"image":"products_images/product-7.jpg",
+		"short_desc":"новый дизайн",
+		"description":"решение для современного интерьера",
+		"price":"8000",
+		"quantity":"3"
+	},
+	{
+		"category": "классика",
+		"name":"дом",
+		"image":"products_images/product-8.jpg",
+		"short_desc":"классический стул",
+		"description":"все как всегда",
+		"price":"4400",
+		"quantity":"2"
+	},
+	{
+		"category": "классика",
+		"name":"дом",
+		"image":"products_images/product-9.jpg",
+		"short_desc":"классика одним словом",
+		"description":"классический совершенный стул",
+		"price":"2000",
+		"quantity":"5"
+	},
+	{
+		"category": "офис",
+		"name":"дом",
+		"image":"products_images/product-10.jpg",
+		"short_desc":"офисный офис",
+		"description":"как и у остальныйх в офисе",
+		"price":"2000",
+		"quantity":"6"
+	}
+]
